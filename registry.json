@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "smart-calculator",
+      "name": "Smart Calculator",
+      "version": "1.0.0",
+      "official": false,
+      "author": "nickcomua",
+      "description": "Raycast-style calculator with unit conversions, currency exchange, and math expressions powered by libqalculate",
+      "repository": "https://github.com/nickcomua/noctalia-smart-calculator",
+      "minNoctaliaVersion": "3.6.0",
+      "license": "MIT",
+      "tags": [
+        "Launcher",
+        "Utility"
+      ],
+      "lastUpdated": "2026-04-03T00:00:00Z"
+    }
+  ]
+}

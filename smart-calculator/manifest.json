@@ -8,10 +8,8 @@
   "repository": "https://github.com/nickcomua/noctalia-smart-calculator",
   "description": "Raycast-style calculator with unit conversions, currency exchange, and math expressions powered by libqalculate",
   "tags": [
-    "Calculator",
-    "Utility",
-    "Converter",
-    "Currency"
+    "Launcher",
+    "Utility"
   ],
   "entryPoints": {
     "launcherProvider": "SmartCalculatorProvider.qml"
